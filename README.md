@@ -4,7 +4,9 @@
 <a href="https://www.instagram.com/gferri.com_" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gferri.com_">
 </a>
-https://img.shields.io/badge/juliagranadowork@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
+<a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox">
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gferri-projects)](https://github.com/anuraghazra/github-readme-stats)
 
