@@ -3,9 +3,14 @@
 <a href="https://www.instagram.com/gferri.com_" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gferri.com_">
 </a>
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gferri-projects)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gferri-projects&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gferri-projects&layout=compact)](https://github.com/USERNAME/github-readme-stats)
+
 
 <!--
 **gferri-projects/gferri-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
