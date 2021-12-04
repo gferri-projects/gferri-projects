@@ -9,7 +9,7 @@
 
 
 
-![Snake animation](https://github.com/gferri-projects/gferri-projects/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
