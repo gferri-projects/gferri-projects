@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" https://photos.app.goo.gl/E9czyKga5QLMpKKy7>
+<img align="right" width="400" height="400" https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif>
 
 # Welcome!
 
